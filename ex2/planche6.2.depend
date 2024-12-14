@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1733083019 source:c:\mi(2eme)\c++\planche6.2\main.cpp
+	<iostream>
+	<vector>
+	"RobotChasseur.h"
+
+1733082505 c:\mi(2eme)\c++\planche6.2\robotchasseur.h
+	"Robot.h"
+
+1733082456 c:\mi(2eme)\c++\planche6.2\robot.h
+	<iostream>
+	<string>
+
+1733082471 source:c:\mi(2eme)\c++\planche6.2\robot.cpp
+	"Robot.h"
+
+1733082520 source:c:\mi(2eme)\c++\planche6.2\robotchasseur.cpp
+	"RobotChasseur.h"
+	<cmath>
+

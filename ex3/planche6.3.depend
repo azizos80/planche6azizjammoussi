@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1733429550 source:c:\mi(2eme)\c++\planche6.3\camion.cpp
+	"Camion.h"
+
+1733429305 c:\mi(2eme)\c++\planche6.3\camion.h
+	"Vehicule.h"
+
+1733432718 c:\mi(2eme)\c++\planche6.3\vehicule.h
+	<iostream>
+
+1733432753 source:c:\mi(2eme)\c++\planche6.3\main.cpp
+	"Voiture.h"
+	"Camion.h"
+	"Vehicule.h"
+
+1733429264 c:\mi(2eme)\c++\planche6.3\voiture.h
+	"Vehicule.h"
+
+1733429603 source:c:\mi(2eme)\c++\planche6.3\voiture.cpp
+	"Voiture.h"
+
+1733432932 source:c:\mi(2eme)\c++\planche6.3\vehicule.cpp
+	"Vehicule.h"
+

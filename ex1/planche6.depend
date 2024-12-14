@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1732822397 source:c:\mi(2eme)\c++\planche6\vecteur.cpp
+	"vecteur.h"
+
+1732822399 c:\mi(2eme)\c++\planche6\vecteur.h
+	<iostream>
+
+1732821955 source:c:\mi(2eme)\c++\planche6\vecteurthree.cpp
+	"vecteurThree.h"
+
+1732821935 c:\mi(2eme)\c++\planche6\vecteurthree.h
+	"vecteur.h"
+
